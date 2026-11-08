@@ -8,5 +8,3 @@ Lab 7: Fuzz Testing
 |------|-------------|
 | `food_delivery.py` | Buggy code to test and fix |
 | `test_food_delivery.py` | Fuzz test file to complete using Hypothesis |
-
-Refer to the lab handout for instructions.
